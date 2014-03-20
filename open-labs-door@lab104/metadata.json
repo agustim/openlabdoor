@@ -1,0 +1,6 @@
+{
+"shell-version": ["3.4.2"], 
+"uuid": "open-labs-door@lab104", 
+"name": "Open The Lab's Door",
+"description": "Call URL to open the Lab's door"
+}
